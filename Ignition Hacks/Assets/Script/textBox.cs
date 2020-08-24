@@ -5,14 +5,17 @@ using UnityEngine.UI;
 public class textBox : MonoBehaviour
 {
 
-    public InputField eventInput;
-    string eventString;
+    public GameObject eventInput;
+    public static string eventString;
+    public static GameObject eventDisplay;
+
+
 
     public void eventFunction()
     {
+        eventString = eventInput.GetComponent<Text>().text;
+        eventDisplay.GetComponent<Text>().text = eventString;
 
-        eventString = eventInput.text;
-        Debug.Log(eventString);
     }
 
 }
