@@ -430,7 +430,7 @@ GameObject:
   - component: {fileID: 1116981241}
   - component: {fileID: 1116981240}
   m_Layer: 5
-  m_Name: Text
+  m_Name: enter time
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -593,7 +593,7 @@ GameObject:
   - component: {fileID: 1346433707}
   - component: {fileID: 1346433706}
   m_Layer: 5
-  m_Name: Button
+  m_Name: exit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -734,7 +734,7 @@ GameObject:
   - component: {fileID: 1349379218}
   - component: {fileID: 1349379217}
   m_Layer: 5
-  m_Name: Image
+  m_Name: top bar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -886,7 +886,7 @@ GameObject:
   - component: {fileID: 1419698268}
   - component: {fileID: 1419698267}
   m_Layer: 5
-  m_Name: Image
+  m_Name: window
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1116,7 +1116,7 @@ GameObject:
   - component: {fileID: 1623164042}
   - component: {fileID: 1623164041}
   m_Layer: 5
-  m_Name: Text
+  m_Name: add new event
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1545,7 +1545,7 @@ GameObject:
   - component: {fileID: 1967939148}
   - component: {fileID: 1967939151}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Enter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
